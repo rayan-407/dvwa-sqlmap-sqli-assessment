@@ -1,0 +1,7 @@
+*.log
+*.sqlite
+*.session
+*.cookie
+.env
+credentials.txt
+secrets.txt
